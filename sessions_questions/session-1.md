@@ -16,7 +16,7 @@ gcd(a, b) = gcd (b, a%b)
 gcd(a, 0) = a
 ```
 
-<p dir="rtl>
+<p dir="rtl">
 <br>
 سوال دو:
 <br>
