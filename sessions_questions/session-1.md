@@ -11,8 +11,10 @@
 نکته:
 <br>
 
-```gcd(a, b) = gcd (b, a%b)
-gcd(a, 0) = a```
+```
+gcd(a, b) = gcd (b, a%b)
+gcd(a, 0) = a
+```
 
 <br>
 سوال دو:
@@ -34,7 +36,7 @@ gcd(a, 0) = a```
 مثال:‌
 <br>
 
-```int a = 101101; /* consider this integer as a binary number */
 ```
-
+int a = 101101; /* consider this integer as a binary number */
+```
 </p>
