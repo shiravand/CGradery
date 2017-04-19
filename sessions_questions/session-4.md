@@ -88,6 +88,6 @@ int main()
 ```
 
 ```
-void merge(int arr1[], int arr2[], int arr3[], int size1, int size2);
+int merge(int arr1[], int arr2[], int arr3[], int size1, int size2);
 ```
 
